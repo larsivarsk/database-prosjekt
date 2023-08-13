@@ -7,6 +7,7 @@ Train database project using SQLite and Python.
 
 **Type the following in your terminal (make sure you are in the same directory as the project):**
 ```
+pip install tabulate
 sqlite3 innlevering.db
 .read schema.sql
 .exit
